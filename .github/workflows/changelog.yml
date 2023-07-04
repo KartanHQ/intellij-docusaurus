@@ -21,7 +21,7 @@ jobs:
           fetch-depth: 0
 
       # Set environment variables
-      - name: Docusaurusrt Properties
+      - name: Export Properties
         id: properties
         shell: bash
         run: |
