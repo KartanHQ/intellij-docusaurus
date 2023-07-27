@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
+## [1.0.6] - 2023-07-27
+
+### Bug Fixes
+
+- Solve some minor issues and update dependencies
+
+### Security
+
+- Upgrade Gradle version to 8.2.1
+
 ## [1.0.5] - 2023-07-22
 
 ### Bug Fixes
